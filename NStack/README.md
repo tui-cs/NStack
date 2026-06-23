@@ -39,7 +39,7 @@ Doing so will update the `.csproj` files in your branch with version info, which
 ## Deploying a new version of the NStack Nuget Library
 
 To release a new version (e.g. with a higher `major`, `minor`, or `patch` value) tag a commit using `git tag` and then 
-push that tag directly to the `main` branch on `github.com/gui-cs/NStack` (`upstream`).
+push that tag directly to the `main` branch on `github.com/tui-cs/NStack` (`upstream`).
 
 The `tag` must be of the form `v<major>.<minor>.<patch>`, e.g. `v2.3.4`.
 
@@ -101,12 +101,12 @@ git push --atomic upstream main v2.3.4
 
 ### 8) Monitor Github Actions to ensure the Nuget publishing worked.
 
-https://github.com/gui-cs/NStack/actions
+https://github.com/tui-cs/NStack/actions
 
 ### 9) Check Nuget to see the new package version (wait a few minutes) 
 https://www.nuget.org/packages/NStack.Core
 
-### 10) Add a new Release in Github: https://github.com/gui-cs/NStack/releases
+### 10) Add a new Release in Github: https://github.com/tui-cs/NStack/releases
 
 Generate release notes with the list of PRs since the last release 
 

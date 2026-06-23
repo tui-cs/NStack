@@ -1,6 +1,6 @@
 This folder generates the API docs for NStack. 
 
-The API documentation is generated via a GitHub Action (`.github/workflows/api-docs.yml`) using [DocFX](https://github.com/dotnet/docfx). The Action publishes the docs to the `gh-pages` branch, which gets published to https://gui-cs.github.io/NStack/.
+The API documentation is generated via a GitHub Action (`.github/workflows/api-docs.yml`) using [DocFX](https://github.com/dotnet/docfx). The Action publishes the docs to the `gh-pages` branch, which gets published to https://tui-cs.github.io/NStack/.
 
 ## To Generate the Docs Locally
 

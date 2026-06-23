@@ -10,8 +10,8 @@
     <PackageTags>unicode, c#</PackageTags>
     <Title>NStack.Core</Title>
 
-    <PackageProjectUrl>https://github.com/gui-cs/NStack/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/gui-cs/NStack.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/tui-cs/NStack/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tui-cs/NStack.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
@@ -26,7 +26,7 @@
 
 It starts with a new string type that is focused on Unicode code-points as opposed to the historical chars and  UTF-16 encoding and introduces a utf8 string that supports slicing</Description>
     <PackageReleaseNotes>
-      See https://github.com/gui-cs/NStack/releases
+      See https://github.com/tui-cs/NStack/releases
     </PackageReleaseNotes>
 
     <!-- Version numbers are automatically updated by gitversion when a release is released -->
