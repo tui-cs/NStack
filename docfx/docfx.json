@@ -70,7 +70,7 @@
       "_appLogoPath": "images/logo48.png",
       "_disableContribution": false,
       "_gitContribute": {
-        "repo": "https://github.com/gui-cs/NStack",
+        "repo": "https://github.com/tui-cs/NStack",
         "branch": "develop",
         "apiSpecFolder": "docfx/overrides"
       },
